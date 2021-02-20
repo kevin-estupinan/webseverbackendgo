@@ -1,4 +1,4 @@
-package webserverbackendgo
+package router
 
 import (
 	"net/http"

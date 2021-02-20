@@ -1,4 +1,4 @@
-package webserverbackendgo
+package types
 
 import (
 	"encoding/json"

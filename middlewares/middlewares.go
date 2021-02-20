@@ -1,4 +1,4 @@
-package webserverbackendgo
+package middlewares
 
 import (
 	"log"
